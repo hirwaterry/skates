@@ -1,0 +1,40 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"heading": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading1",
+						"content": {
+							"text": "Something"
+						}
+					}
+				]
+			},
+			"body": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Do eu reprehenderit do quis id commodo proident. Ipsum magna consequat aute aliqua sunt excepteur anim esse laboris ea nulla eu minim sint. Nisi deserunt do occaecat tempor laborum ullamco proident magna et officia officia non."
+						}
+					}
+				]
+			},
+			"button": {
+				"__TYPE__": "LinkContent",
+				"key": "5a7b4cec-f6f0-4bff-90d0-f40d0f3bcd8b",
+				"value": {
+					"__TYPE__": "ExternalLink",
+					"url": "https://prismic.io",
+					"text": "cream"
+				}
+			}
+		},
+		"items": []
+	}
+]

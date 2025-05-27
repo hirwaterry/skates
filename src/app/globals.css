@@ -1,0 +1,28 @@
+@import "tailwindcss";
+
+@theme {
+
+
+  --color-brand-blue: #4876ff;
+  --color-brand-lime: #d9f154;
+  --color-brand-navy: #2e3192;
+  --color-brand-orange: #ff7347;
+  --color-brand-pink: #f7d0e9;
+  --color-brand-purple: #692e54;
+  --color-brand-gray: #fffdf9;
+}
+
+.dm-mono {
+  font-family: var(--font-dm-mono);
+}
+
+.bowl { /* <-- NEW CLASS HERE */
+  font-family: var(--font-Bowlby_One_SC);
+}
+
+.bg-texture {
+  background-image: url("/bg-texture.webp");
+  background-size:  720px 460px;
+  background-repeat: repeat;
+  background-position: center;
+}
